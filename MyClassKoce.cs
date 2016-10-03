@@ -9,5 +9,9 @@ namespace PZW16
     class MyClassKoce
     {
         public static Int32 i32KolikoSiSpreman;
+        public static void vAddPostotak()
+        {
+
+        }
     }
 }
